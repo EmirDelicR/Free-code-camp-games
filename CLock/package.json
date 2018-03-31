@@ -1,0 +1,19 @@
+{
+  "name": "clock",
+  "version": "1.0.0",
+  "description": "Pomodor for freeCodeCamp",
+  "main": "test.html",
+  "scripts": {
+    "test": "build"
+  },
+  "keywords": [
+    "clock",
+    "pomodor"
+  ],
+  "author": "Emir Delic",
+  "license": "ISC",
+  "dependencies": {
+    "@types/jquery": "^3.3.1",
+    "typescript": "^2.7.2"
+  }
+}
